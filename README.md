@@ -16,6 +16,15 @@ This is a content-based movie recommendation system built using Python and Strea
 - `movie_data.pkl`, `similarity.pkl`, `details.pkl` – Precomputed data
 - `tmdb_5000_credits.csv` – Dataset used for training
 - `requirements.txt` – Required libraries
+- ## ⚠️ Missing File Notice
+
+Due to GitHub's 100 MB file size limit, the file `similarity.pkl` is not uploaded here.
+
+👉 You can download it from Google Drive:
+
+🔗 [Download similarity.pkl](https://drive.google.com/file/d/1SnCErmhTbNbf0B4LNfx3JOx0ee4dijl3/view?usp=sharing)
+
+📌 After downloading, place it in the same folder as your `ui.py` file.
 
 ## ▶️ How to Run
 
